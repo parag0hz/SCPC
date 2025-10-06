@@ -1,0 +1,2 @@
+# SCPC
+2025 SCPC AI 챌린지
